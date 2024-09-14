@@ -54,8 +54,8 @@ Por exemplo, se chegar um lote de 12 macacos, não é possível colocar 6 em 2 r
 
 ### ENTRADAS E SAÍDAS
 
-1) O programa deve receber tipo e quantidade de animal (nessa ordem)
-2) O programa deve retornar uma estrutura contendo a lista de todos os recintos viáveis ordenada pelo número do recinto (caso existam) e a mensagem de erro (caso exista)
+1) O programa deve receber tipo e quantidade de animal (nessa ordem) 
+2) O programa deve retornar uma estrutura contendo a lista de todos os recintos viáveis ordenada pelo número do recinto (caso existam) e a mensagem de erro (caso exista) 
 3) A lista de recintos viáveis deve indicar o espaço livre que restaria após a inclusão do(s) animal(is) e o espaço total, no formato "Recinto nro (espaço livre: valorlivre total: valortotal)"
 4) Caso animal informado seja inválido, apresentar erro "Animal inválido"
 5) Caso quantidade informada seja inválida, apresentar erro "Quantidade inválida"
